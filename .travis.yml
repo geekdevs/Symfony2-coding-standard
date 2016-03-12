@@ -22,6 +22,6 @@ branches:
   except:
     - jenkins
 
-notifications:
-  email:
-    - dev@escapestudios.com
+#notifications:
+#  email:
+#    - dev@escapestudios.com
